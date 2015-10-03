@@ -22,6 +22,8 @@ git log --oneline
 	shows us all the commits in one line
 git diff
 	shows us what have changed between our working directory and staging area
+	
+Branches - parallel universes where we can work on different things in isolation
 git branch
 	gives a list of all branches in the repository
 git branch [name]
