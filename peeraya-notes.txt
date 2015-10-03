@@ -20,3 +20,5 @@ git log
 	shows us all the commits that were made
 git log --oneline
 	shows us all the commits in one line
+git diff
+	shows us what have changed between our working directory and staging area
