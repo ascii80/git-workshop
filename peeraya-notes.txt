@@ -18,3 +18,5 @@ git commit -m ‘comment’
 	commits change into repository
 git log
 	shows us all the commits that were made
+git log --oneline
+	shows us all the commits in one line
