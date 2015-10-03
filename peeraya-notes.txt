@@ -30,3 +30,5 @@ git branch [name]
 	creates a new branch [name]
 git checkout [branch-name]
 	switches to branch [branch-name]
+git merge [branch-name]
+	merge changes on [branch-name] into current branch
