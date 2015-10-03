@@ -34,3 +34,7 @@ git merge [branch-name]
 	merge changes on [branch-name] into current branch
 git checkout [commit-id]
 	switches to [commit-id]
+git revert --no-edit [commit-id]
+	reverses [commit-id] commit by making another commit
+git reset --hard
+	resets the working directory
